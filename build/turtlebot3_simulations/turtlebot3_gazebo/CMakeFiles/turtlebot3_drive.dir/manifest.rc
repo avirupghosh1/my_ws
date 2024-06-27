@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Windows/System32/my_ws/build/turtlebot3_simulations/turtlebot3_gazebo/CMakeFiles/turtlebot3_drive.dir/embed.manifest"

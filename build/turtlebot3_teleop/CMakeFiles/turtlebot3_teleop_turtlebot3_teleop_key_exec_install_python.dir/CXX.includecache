@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Windows/System32/my_ws/build/turtlebot3_teleop/catkin_generated/add_python_executable/turtlebot3_teleop_turtlebot3_teleop_key_exec_install_python/turtlebot3_teleop_key.cpp
+fstream
+-
+iostream
+-
+string
+-
+windows.h
+-
+

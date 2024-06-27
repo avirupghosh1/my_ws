@@ -1,0 +1,8 @@
+prefix=C:/Windows/System32/my_ws/install
+
+Name: bellman_ford_planner
+Description: Description of bellman_ford_planner
+Version: 0.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lbellman_ford_planner
+Requires: roscpp nav_core pluginlib costmap_2d tf

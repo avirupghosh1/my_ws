@@ -1,0 +1,8 @@
+# CMake generated Testfile for 
+# Source directory: C:/Windows/System32/my_ws/src/rrt_star_global_planner
+# Build directory: C:/Windows/System32/my_ws/build/rrt_star_global_planner
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_rrt_star_global_planner_rostest_test_rrt_star.test "C:/Windows/System32/my_ws/build/catkin_generated/env_cached.bat" "C:/opt/ros/melodic/x64/python.exe" "C:/opt/ros/melodic/x64/share/catkin/cmake/test/run_tests.py" "C:/Windows/System32/my_ws/build/test_results/rrt_star_global_planner/rostest-test_rrt_star.xml" "--return-code" "C:/opt/ros/melodic/x64/python.exe C:/opt/ros/melodic/x64/share/rostest/cmake/../../../bin/rostest --pkgdir=C:/Windows/System32/my_ws/src/rrt_star_global_planner --package=rrt_star_global_planner --results-filename test_rrt_star.xml --results-base-dir \"C:/Windows/System32/my_ws/build/test_results\" C:/Windows/System32/my_ws/src/rrt_star_global_planner/test/rrt_star.test ")
+set_tests_properties(_ctest_rrt_star_global_planner_rostest_test_rrt_star.test PROPERTIES  _BACKTRACE_TRIPLES "C:/opt/ros/melodic/x64/share/catkin/cmake/test/tests.cmake;160;add_test;C:/opt/ros/melodic/x64/share/rostest/cmake/rostest-extras.cmake;52;catkin_run_tests_target;C:/opt/ros/melodic/x64/share/rostest/cmake/rostest-extras.cmake;80;add_rostest;C:/opt/ros/melodic/x64/share/rostest/cmake/rostest-extras.cmake;100;_add_rostest_google_test;C:/Windows/System32/my_ws/src/rrt_star_global_planner/CMakeLists.txt;59;add_rostest_gtest;C:/Windows/System32/my_ws/src/rrt_star_global_planner/CMakeLists.txt;0;")

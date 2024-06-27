@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Windows/System32/my_ws/build/turtlebot3_example/catkin_generated/add_python_executable/turtlebot3_example_turtlebot3_illumination_exec_install_python/turtlebot3_illumination.cpp
+fstream
+-
+iostream
+-
+string
+-
+windows.h
+-
+

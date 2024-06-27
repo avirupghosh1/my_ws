@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Windows/System32/my_ws/build/turtlebot3_example/CMakeFiles/turtlebot3_example_turtlebot3_marker_server_exec_install_python.dir/embed.manifest"
